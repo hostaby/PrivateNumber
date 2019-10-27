@@ -4,5 +4,5 @@ hostagen!
   Slow hostag.exe
   Fast hostagen.exe
 
-Bitoin
+https://www.bitaddress.org (Пример создания приватного и публичного ключа на стороне клиента) (Нам неообходим ТОЛЬКО публичный ключ)
   
